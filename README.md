@@ -1,0 +1,4 @@
+myapp
+=====
+
+small test suite
